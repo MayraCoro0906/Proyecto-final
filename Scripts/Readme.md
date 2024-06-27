@@ -42,7 +42,7 @@ https://www.ncbi.nlm.nih.gov/gene/7157/ortholog/?scope=7776,1963757,1963758&term
 https://www.ebi.ac.uk/jdispatcher/msa/muscle/summary?jobId=muscle-I20240624-214541-0023-97659465-p1m&js=pass
 ```
 
-![Programa](https://kbase.us/services/narrative_method_store/img?method_id=kb_muscle/MUSCLE_nuc&image_name=muscle-cyan.png&tag=release)
+![Programa](https://kbase.us/services/narrative_method_store/img?method_id=kb_muscle/MUSCLE_nuc&image_name=muscle-cyan.png)
 
 ## 2. Subir archivo Fasta "Trp53_refseq_transcript.fasta" al programa Muscle en línea y correr.
 
